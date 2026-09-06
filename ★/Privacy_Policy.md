@@ -48,6 +48,9 @@ To solve this challenge, we simply need to navigate through the client-side user
 
 ---
 
+## Screenshot
+<img src="../screenshot/Privacy_Policy.png" alt="scoreboard" width="500px">
+
 ### 🧠 Technical Explanation
 
 Unlike administrative panels or hidden scoreboards that require analyzing minified code bundles, this resource is fully public and integrated intentionally into the client application layer routing maps.
