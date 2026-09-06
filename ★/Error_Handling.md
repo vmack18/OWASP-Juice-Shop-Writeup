@@ -62,6 +62,9 @@ There are multiple input fields in the application that interface with the backe
 
 ---
 
+## Screenshot
+<img src="../screenshot/Error_Handling.png" alt="scoreboard" width="500px">
+
 ### 🧠 Technical Explanation
 
 The application uses an Object-Relational Mapping framework called *Sequelize* to speak to an *SQLite* backend database.
